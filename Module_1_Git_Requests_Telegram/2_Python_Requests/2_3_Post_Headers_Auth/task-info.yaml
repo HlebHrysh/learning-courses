@@ -1,0 +1,13 @@
+type: edu
+files:
+- name: task.py
+  visible: true
+  placeholders:
+  - offset: 101
+    length: 74
+    placeholder_text: '# TODO: Сформуйте headers={''Authorization'': ...} та requests.post(...,
+      json=payload)'
+- name: tests/test_task.py
+  visible: false
+- name: task.md
+  visible: true

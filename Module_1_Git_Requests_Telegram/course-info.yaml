@@ -1,0 +1,11 @@
+title: 'Модуль 1: Git, Requests та Telegram API'
+language: Ukrainian
+summary: 'Повний практичний курс з основ бекенд-розробки: система контролю версій
+  Git, робота з мережею та API (Python Requests) і створення інтерактивного Telegram-бота.'
+programming_language: Python
+programming_language_version: '3'
+environment: unittest
+content:
+- 1_Git_Basics
+- 2_Python_Requests
+- 3_Telegram_Bot_API

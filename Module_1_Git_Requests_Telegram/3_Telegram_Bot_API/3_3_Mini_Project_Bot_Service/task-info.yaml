@@ -1,0 +1,13 @@
+type: edu
+files:
+- name: task.py
+  visible: true
+  placeholders:
+  - offset: 71
+    length: 83
+    placeholder_text: '# TODO: Виконайте requests.get, перевірте статус та поверніть
+      форматований рядок'
+- name: tests/test_task.py
+  visible: false
+- name: task.md
+  visible: true

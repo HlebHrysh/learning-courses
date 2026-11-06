@@ -1,0 +1,12 @@
+type: edu
+files:
+- name: task.py
+  visible: true
+  placeholders:
+  - offset: 51
+    length: 62
+    placeholder_text: '# TODO: Перевірте префікси та довжину опису'
+- name: tests/test_task.py
+  visible: false
+- name: task.md
+  visible: true

@@ -1,0 +1,12 @@
+type: edu
+files:
+- name: task.py
+  visible: true
+  placeholders:
+  - offset: 88
+    length: 98
+    placeholder_text: '# TODO: Використайте params={''status'': ''active''} та response.json()'
+- name: tests/test_task.py
+  visible: false
+- name: task.md
+  visible: true
